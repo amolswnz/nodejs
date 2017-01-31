@@ -18,7 +18,12 @@
 
 
 # Credits
-https://github.com/paularmstrong/swig Swig is an awesome, Django/Jinja-like template engine for node.js.
-https://nodejs.org/en/ Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. 
-http://expressjs.com/ Fast, unopinionated, minimalist web framework for Node.js
-http://mongoosejs.com/ elegant mongodb object modeling for node.js
+[Bootstrap](http://getbootstrap.com/) is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+
+[Swig](https://github.com/paularmstrong/swig) is an awesome, Django/Jinja-like template engine for Node.js
+
+[Node.js](https://nodejs.org/en/) is a JavaScript runtime built on Chrome's V8 JavaScript engine. 
+
+[Express.js](http://expressjs.com/) Fast, unopinionated, minimalist web framework for Node.js
+
+[Mongoose](http://mongoosejs.com/) elegant mongodb object modeling for node.js
