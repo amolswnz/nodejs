@@ -63,10 +63,6 @@
 
         <div class="container">
             <div class="col-md-12 column list-group">
-                {% if(!notes) %}
-                    <h1>NOthinf</h1>
-                {% endif %}
-
                 {% for note in notes %}
                 <div class="list-group-item">
                     <div>Note from <em><strong>{{ note.memberName }}</strong></em> on: {{ note.createdOn.toDateString() }}
